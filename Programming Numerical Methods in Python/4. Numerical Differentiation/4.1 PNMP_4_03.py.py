@@ -1,10 +1,5 @@
 '''
 Method: Finite Differences Approximation (Plot)
-Section: Numerical Differentiation
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_4_03.py
-Date: Aug. 6, 2017
 ''' 
 import numpy as np
 import matplotlib.pyplot as plt

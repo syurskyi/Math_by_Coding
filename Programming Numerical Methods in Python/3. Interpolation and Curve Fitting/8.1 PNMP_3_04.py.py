@@ -1,10 +1,5 @@
 '''
 Method: Linear Regression (using NumPy functions)
-Section: Interpolation and Curve Fitting
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_3_03.py
-Date: Aug. 6, 2017
 ''' 
 from numpy import array, sum, mean
 x = array([3, 4, 5, 6, 7, 8])

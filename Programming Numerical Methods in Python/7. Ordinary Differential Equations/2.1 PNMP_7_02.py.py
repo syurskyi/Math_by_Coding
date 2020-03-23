@@ -1,10 +1,5 @@
 '''
 Method: 2nd order Runge-Kutta
-Section: Ordinary Differential Equations
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_7_02.py
-Date: Aug. 6, 2017
 ''' 
 from math import exp
 dy = lambda x,y: x*y

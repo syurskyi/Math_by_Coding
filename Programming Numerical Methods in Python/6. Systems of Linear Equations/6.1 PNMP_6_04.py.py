@@ -1,10 +1,5 @@
 '''
 Method: Jacobi Iterative
-Section: Systems of Linear Equations
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_6_04.py
-Date: Aug. 6, 2017
 ''' 
 from numpy import *
 a = array([[4, 1, 2, -1],

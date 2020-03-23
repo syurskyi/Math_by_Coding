@@ -1,10 +1,5 @@
 '''
 Method: Finite Differences Approximation
-Section: Numerical Differentiation
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_4_02.py
-Date: Aug. 6, 2017
 ''' 
 def f(x):
     return 0.1*x**5 - 0.2*x**3 + 0.1*x - 0.2

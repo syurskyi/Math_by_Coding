@@ -1,10 +1,5 @@
 '''
 Method: Simpson's 3/8 Rule
-Section: Numerical Integration
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_5_03.py
-Date: Aug. 6, 2017
 ''' 
 from math import sin, pi
 f = lambda x: x*sin(x)

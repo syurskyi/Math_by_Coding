@@ -1,10 +1,5 @@
 '''
 Method: Polynomial Curve Fit
-Section: Interpolation and Curve Fitting
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_3_05.py
-Date: Aug. 6, 2017
 ''' 
 import numpy as np
 x = np.arange(6)

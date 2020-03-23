@@ -1,10 +1,5 @@
 '''
 Method: First Order ODE using 4th order Runge-Kutta (Plot)
-Section: Ordinary Differential Equations
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_7_04.py
-Date: Aug. 6, 2017
 ''' 
 import numpy as np
 import matplotlib.pyplot as plt

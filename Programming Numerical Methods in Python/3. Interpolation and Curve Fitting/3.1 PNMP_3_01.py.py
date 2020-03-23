@@ -1,10 +1,5 @@
 '''
 Method: Lagrange Interpolation
-Section: Interpolation and Curve Fitting
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_3_01.py
-Date: Aug. 6, 2017
 ''' 
 x = [0, 20, 40, 60, 80, 100]
 y = [26.0, 48.6, 61.6, 71.2, 74.8, 75.2]

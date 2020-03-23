@@ -1,10 +1,5 @@
 '''
 Method: Bisection
-Section: Roots of Higher-Degree Equations
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_2_04.py
-Date: Aug. 6, 2017
 ''' 
 x1 = 0              
 x2 = 1.2            

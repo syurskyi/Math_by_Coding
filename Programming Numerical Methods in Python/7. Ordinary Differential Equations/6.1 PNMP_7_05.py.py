@@ -1,10 +1,5 @@
 '''
 Method: Second Order ODE using 4th order Runge-Kutta
-Section: Ordinary Differential Equations
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_7_05.py
-Date: Aug. 6, 2017
 ''' 
 from math import sin, cos, pi
 # system of the first order ODE's

@@ -1,10 +1,5 @@
 '''
 Method: Gauss Elimination (modified)
-Section: Systems of Linear Equations
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_6_03.py
-Date: Aug. 6, 2017
 ''' 
 from numpy import array, zeros
 a = array([[0, 7, -1, 3, 1],

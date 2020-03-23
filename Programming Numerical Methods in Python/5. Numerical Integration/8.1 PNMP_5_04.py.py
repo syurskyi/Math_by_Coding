@@ -1,10 +1,5 @@
 '''
 Method: Double Quadrature (using Simpson's 1/3 Rule)
-Section: Numerical Integration
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_5_04.py
-Date: Aug. 6, 2017
 ''' 
 f = lambda x, y: x**2 * y + x * y**2
 ax = 1

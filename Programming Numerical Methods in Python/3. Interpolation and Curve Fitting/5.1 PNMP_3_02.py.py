@@ -1,10 +1,5 @@
 '''
 Method: Newton Interpolation
-Section: Interpolation and Curve Fitting
-Course: Programming Numerical Methods in Python
-Instructor: Murad Elarbi
-File Name: PNMP_3_02.py
-Date: Aug. 6, 2017
 ''' 
 import numpy as np
 x = [0.0, 1.5, 2.8, 4.4, 6.1, 8.0]
