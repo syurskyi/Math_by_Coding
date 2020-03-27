@@ -1,48 +1,118 @@
-# Import the relevant libraries
+# To add a new cell, type '# %%'
+# To add a new markdown cell, type '# %% [markdown]'
+# %% [markdown]
+# # Import the relevant libraries
 
+# %%
 import numpy as np
 
-# Declaring scalars, vectors, and matrices
-# Unrecognized cell type: heading
+# %% [markdown]
+# # Declaring scalars, vectors, and matrices
+# %% [markdown]
+# ## Scalars
 
+# %%
 s = 5
 
-print(s)
-print('#' * 50, 'Vectors')
 
-# Vectors
+# %%
+s
+
+# %% [markdown]
+# ## Vectors
+
+# %%
 v = np.array([5,-2,4])
-print(v)
 
-# Matrices
-print('#' * 50, 'Matrices')
 
+# %%
+v
+
+# %% [markdown]
+# ## Matrices
+
+# %%
 m = np.array([[5,12,6],[-3,0,14]])
-print(m)
 
-# Data types
-print('#' * 50, 'Data types')
-print(type(s))
-print(type(v))
-print(type(m))
+
+# %%
+m
+
+# %% [markdown]
+# ## Data types
+
+# %%
+type(s)
+
+
+# %%
+type(v)
+
+
+# %%
+type(m)
+
+
+# %%
 s_array = np.array(5)
-print(type(s_array))
 
-# Data shapes
-print('#' * 50, 'Data shapes')
-print(m.shape)
-print(v.shape)
-# s.shape
-print(s_array.shape)
 
-# Creating a column vector
-print('#' * 50, 'Creating a column vector')
+# %%
+type(s_array)
 
-print(v.reshape(1,3))
+# %% [markdown]
+# ## Data shapes
+
+# %%
+m.shape
+
+
+# %%
+v.shape
+
+
+# %%
+s.shape
+
+
+# %%
+s_array.shape
+
+# %% [markdown]
+# ## Creating a column vector
+
+# %%
+v.reshape(1,3)
+
+
+# %%
 v.reshape(3,1)
-print(m+s)
-print(m+s_array)
-print(v+s)
-print(v)
-print(v+s_array)
-print(m+v)
+
+
+# %%
+m+s
+
+
+# %%
+m+s_array
+
+
+# %%
+v+s
+
+
+# %%
+v
+
+
+# %%
+v+s_array
+
+
+# %%
+m+v
+
+
+# %%
+
+
